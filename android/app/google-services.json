@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433114426533",
+    "project_id": "tejaswini-ff0ad",
+    "storage_bucket": "tejaswini-ff0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433114426533:android:c634be7fcb54a0b51c314c",
+        "android_client_info": {
+          "package_name": "com.example.tejaswini_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433114426533-k786ct9cq5d09qs6a3ov34lkoh4c43q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4awYqJo2b3AF6j5nlpHKbzD4MENzjDtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433114426533-k786ct9cq5d09qs6a3ov34lkoh4c43q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
